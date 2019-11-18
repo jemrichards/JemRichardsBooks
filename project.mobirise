@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -737,7 +737,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Bookstore",
-        "order": 7
+        "order": 1
       },
       "components": [
         {
@@ -1599,7 +1599,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Books Synapsis",
-        "order": 6
+        "order": 2
       },
       "components": [
         {
@@ -2709,7 +2709,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "About Author",
-        "order": 5
+        "order": 3
       },
       "components": [
         {
@@ -4300,7 +4300,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Blog",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -4941,7 +4941,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Coming Soon",
-        "order": 2
+        "order": 6
       },
       "components": [
         {
